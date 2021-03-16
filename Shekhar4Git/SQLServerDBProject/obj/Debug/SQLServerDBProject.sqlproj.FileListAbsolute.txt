@@ -1,0 +1,10 @@
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\bin\Debug\SQLServerDBProject.dacpac
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\bin\Debug\SQLServerDBProject.dll
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\bin\Debug\SQLServerDBProject.pdb
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\obj\Debug\SQLServerDBProject.sqlprojAssemblyReference.cache
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\obj\Debug\Model.xml
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\obj\Debug\refactor.xml
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\obj\Debug\postdeploy.sql
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\obj\Debug\predeploy.sql
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\obj\Debug\SQLServerDBProject.dll
+C:\Users\inchandra\Desktop\Database\Shekhar4Git\SQLServerDBProject\obj\Debug\SQLServerDBProject.pdb

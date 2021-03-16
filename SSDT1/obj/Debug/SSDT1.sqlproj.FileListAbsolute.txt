@@ -1,0 +1,10 @@
+C:\Users\inchandra\Desktop\Database\SSDT1\bin\Debug\SSDT1.dacpac
+C:\Users\inchandra\Desktop\Database\SSDT1\bin\Debug\SSDT1.dll
+C:\Users\inchandra\Desktop\Database\SSDT1\bin\Debug\SSDT1.pdb
+C:\Users\inchandra\Desktop\Database\SSDT1\obj\Debug\SSDT1.sqlprojAssemblyReference.cache
+C:\Users\inchandra\Desktop\Database\SSDT1\obj\Debug\Model.xml
+C:\Users\inchandra\Desktop\Database\SSDT1\obj\Debug\refactor.xml
+C:\Users\inchandra\Desktop\Database\SSDT1\obj\Debug\postdeploy.sql
+C:\Users\inchandra\Desktop\Database\SSDT1\obj\Debug\predeploy.sql
+C:\Users\inchandra\Desktop\Database\SSDT1\obj\Debug\SSDT1.dll
+C:\Users\inchandra\Desktop\Database\SSDT1\obj\Debug\SSDT1.pdb
