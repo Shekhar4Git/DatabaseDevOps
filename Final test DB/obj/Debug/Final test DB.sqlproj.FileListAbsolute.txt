@@ -1,0 +1,6 @@
+C:\Users\inchandra\Desktop\Database\Final test DB\bin\Debug\Final test DB.dacpac
+C:\Users\inchandra\Desktop\Database\Final test DB\bin\Debug\Final_test_DB.dll
+C:\Users\inchandra\Desktop\Database\Final test DB\bin\Debug\Final_test_DB.pdb
+C:\Users\inchandra\Desktop\Database\Final test DB\obj\Debug\Final test DB.sqlprojAssemblyReference.cache
+C:\Users\inchandra\Desktop\Database\Final test DB\obj\Debug\Final_test_DB.dll
+C:\Users\inchandra\Desktop\Database\Final test DB\obj\Debug\Final_test_DB.pdb
